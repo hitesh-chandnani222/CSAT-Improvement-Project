@@ -8,8 +8,9 @@ CSAT-Improvement-Project
 2. [Root Cause Analysis](Root_Cause_Analysis.md)
 3. [Recommendations](Recommendations.md)
 4. [AS-IS Process](AS_IS_Process.png)
-5. [Key Drivers of Low CSAT](Root_Cause_Analysis_Summary.png)
-6. [TO-BE Process](TO%20BE%20Process%20Chart%20Final.png)
+5. [Lucid_chart_Customer_Journey_to_DSAT.png](Lucid_chart_Customer_Journey_to_DSAT.png)
+6. [Key Drivers of Low CSAT](Root_Cause_Analysis_Summary.png)
+7. [TO-BE Process](TO%20BE%20Process%20Chart%20Final.png)
 
 
 ## Project Overview
