@@ -22,14 +22,20 @@ or deliberately delaying customer responses were subjected to performance manage
 
 ### Recommendation 1.2 - Supervisor Monitoring and Coaching
 
-Supervisors were required to conduct regular live call/chat monitoring and provide immediate coaching wherever 
-performance gaps were identified.
+Supervisors were required to conduct regular live call/chat monitoring and provide immediate coaching wherever performance gaps were identified.
+
+Additionally, all DSATs were required to be audited as soon as they became available in the customer feedback reports. Supervisors were expected to review the customer interaction, identify the root cause of the negative feedback, and conduct targeted coaching sessions with the associate to prevent similar occurrences in future interactions.
+
+Coaching discussions focused on areas such as customer handling, communication skills, process adherence, ownership, knowledge gaps, transfer behaviour, and overall customer experience.
 
 ### Expected Outcome
 
 * Improved customer handling.
 * Faster issue resolution.
+* Reduced repeat mistakes.
+* Improved associate performance.
 * Improved CSAT performance.
+* Increased accountability through timely coaching interventions.
 
 ---
 
