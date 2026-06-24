@@ -67,9 +67,12 @@ Analysis identified multiple drivers of customer dissatisfaction, including high
 
 ## Repository Contents
 
-* README.md
-* Root_Cause_Analysis.md
-* Recommendations.md
-* AS-IS Process Flow
-* TO-BE Process Flow
-* KPI Dashboard
+CSAT-Improvement-Project
+## Project Navigation
+
+1. [Stakeholder Analysis](Stakeholder_analysis.md)
+2. [Root Cause Analysis](Root_Cause_Analysis.md)
+3. [Recommendations](Recommendations.md)
+4. [AS-IS Process](AS_IS_Process.png)
+5. [Key Drivers of Low CSAT](Root_Cause_Analysis_Summary.png)
+6. [TO-BE Process](TO%20BE%20Process%20Chart%20Final.png)
