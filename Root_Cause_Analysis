@@ -1,6 +1,7 @@
 # Root Cause Analysis
 
-The analysis was conducted using CSAT survey results, customer VOCs (Voice of Customer), call/chat recordings, quality audit reports, transfer reports, repeat contact reports, and operational KPI reports.
+The analysis was conducted using CSAT survey results, customer VOCs (Voice of Customer), call/chat recordings, 
+quality audit reports, transfer reports, repeat contact reports, and operational KPI reports.
 
 Based on the analysis, the following key findings were identified:
 
@@ -10,10 +11,12 @@ Most of the negative customer reviews (DSATs) were linked to high call/chat hand
 
 The primary reasons observed for high AHT were:
 
-* Behaviour challenges where associates were roaming around or engaging in non-work-related conversations with fellow colleagues while handling customer interactions.
+* Behaviour challenges where associates were roaming around or engaging in non-work-related conversations 
+  with fellow colleagues while handling customer interactions.
 * Delayed responses on chat, where associates were intentionally responding late to avoid receiving new contacts.
 * Dead air (mute) and unnecessary long hold times during customer interactions.
-* Knowledge gaps, where associates were unaware of the correct resolution process or the appropriate team to transfer the customer to.
+* Knowledge gaps, where associates were unaware of the correct resolution process or the appropriate team to transfer 
+  the customer to.
 
 ---
 
@@ -57,7 +60,8 @@ The major reasons identified were:
 
 Certain customer issues required extensive investigation and coordination with multiple teams.
 
-In such cases, associates were often unable to provide an immediate resolution, resulting in customer dissatisfaction and negative survey responses.
+In such cases, associates were often unable to provide an immediate resolution, resulting in customer 
+dissatisfaction and negative survey responses.
 
 ---
 
@@ -77,4 +81,6 @@ This resulted in longer resolution times, incorrect transfers, and inconsistent 
 
 ## Conclusion
 
-The primary drivers of low CSAT scores were high AHT, technical tool issues, communication challenges, repeat contacts, complex customer queries, and limited utilization of available knowledge resources. These findings formed the basis for the improvement initiatives and recommendations implemented as part of the project.
+The primary drivers of low CSAT scores were high AHT, technical tool issues, communication challenges, 
+repeat contacts, complex customer queries, and limited utilization of available knowledge resources. 
+These findings formed the basis for the improvement initiatives and recommendations implemented as part of the project.
